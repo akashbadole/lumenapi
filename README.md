@@ -2,9 +2,11 @@
 
 ## Create Author API - Beginner level
 ### Following Services
-* Get
-* put
-* delete
+*Get
+*put
+*delete
+
+[Rest Api]: https://github.com/akashbadole/lumenapi/blob/restapi/api.png "Output"
 
 ## License
 
