@@ -9,8 +9,7 @@
 
 #### please visit auth0 api in branch auth0
 
-Output : ![Rest Api] (https://github.com/akashbadole/lumenapi/blob/restapi/api.png "Output")
-
+![Rest api](https://raw.githubusercontent.com/akashbadole/lumenapi/restapi/api.png)
 
 
 ## License
