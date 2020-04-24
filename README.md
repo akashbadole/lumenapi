@@ -2,9 +2,9 @@
 
 ## Create Author API - Beginner level
 ### Following Services
-* Get
-* put
-* delete
+-Get
+-put
+-delete
 
 ## License
 
