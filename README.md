@@ -1,12 +1,17 @@
 # Lumen API
 
 ## Create Author API - Beginner level
-### Following Services
-*Get
-*put
-*delete
+### Following spi
+* Get
+* put
+* delete
+* post
 
-[Rest Api]: https://github.com/akashbadole/lumenapi/blob/restapi/api.png "Output"
+#### please visit auth0 api in branch auth0
+
+Output : ![Rest Api] (https://github.com/akashbadole/lumenapi/blob/restapi/api.png "Output")
+
+
 
 ## License
 
